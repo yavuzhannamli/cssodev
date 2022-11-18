@@ -1,0 +1,34 @@
+.text-red {
+    color: red;
+}
+
+.text-coral {
+    color:crimson;
+}
+
+.text-purple {
+    color: purple;
+}
+.list-1 {
+    list-style-position: inside;
+}
+
+body {
+    background-color: gray;
+}
+
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 30px;   
+}
